@@ -9,7 +9,7 @@ Touseef is an expert at structuring well-performing, easily-maintainable javascr
 * 🌍  I'm based in Pakistan
 * 🖥️  See my portfolio at [here](http://touseef.vercel.app)
 * ✉️  You can contact me at [touseef69r@gmail.com](mailto:touseef69r@gmail.com)
-* 🚀  I'm currently working on [QuranFan](http://quranfan.vercel.app)
+* 🚀  I'm currently working on [QuranFan](http://quranfan.vercel.app) and [DevFolio](https://github.com/realtouseef/devfolio)
 * 🧠  I'm learning Next.JS, GraphQL
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I love TypeScript and Ethereum
