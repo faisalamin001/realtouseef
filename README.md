@@ -1,7 +1,7 @@
 Hi 👋 My name is Touseef ibn Khaleel
 ====================================
 
-Jr. ReactJS Engineer
+Jr. Software Engineer
 --------------------
 
 Touseef is an expert at structuring well-performing, easily-maintainable javascript frontend applications. He is also well-versed in modern web technologies. He has a knack for creating minimal websites. He has an eye for even the smallest of details like choosing colors, font sizes, images, etc. He is a big fan of simplicity and is a better team leader as compared to an individual contributor.
