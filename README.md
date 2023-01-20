@@ -12,7 +12,6 @@ Touseef is an expert at structuring well-performing, easily-maintainable javascr
 * 🚀  I'm currently working on [QuranFan](http://quranfan.vercel.app) and [DevFolio](https://github.com/realtouseef/devfolio)
 * 🧠  My Tech Stack Next.JS, TailwindCSS, TypeScript, GraphQL
 * 🤝  I'm open to collaborating on interesting projects
-* ⚡  I love TypeScript and Ethereum
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=realtouseef&label=Profile%20views&color=0e75b6&style=flat" alt="realtouseef" /> </p>
 
